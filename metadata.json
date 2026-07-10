@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An elegant, AI-powered Resume Builder designed for graduates and career switchers, with ATS optimization and real-time previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
